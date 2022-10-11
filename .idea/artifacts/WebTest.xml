@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WebTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebTest</output-path>
+    <root id="archive" name="WebTest.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/webApp/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
